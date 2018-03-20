@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera Central Pixel</string>
+    <string name="capture_central_pixel">Capture Central Pixel</string>
+    <string name="open_camera">Open Camera Preview and Collect Center Pixel</string>
+    <string name="exhibit_data">Exhibit Data from Center Pixel</string>
+    <string name="center_pixel_info">Center Pixel</string>
+</resources>
